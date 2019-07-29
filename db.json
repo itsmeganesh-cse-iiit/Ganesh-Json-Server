@@ -1,4 +1,5 @@
 {
+  "doctor":{
   "doctor_name": "Dr. Shravan",
   "doctor_lastname": "Dixit",
   "doctor_image": "https://media.istockphoto.com/photos/confident-doctor-posing-in-the-office-picture-id611776510?k=6&m=611776510&s=612x612&w=0&h=CVnZTOFLbZI1CBNC437enKFDCgMMXr0Y7NJyjmMkUUY=",
@@ -6,4 +7,9 @@
   "doctor_specialisation": "MS - ENT, DNB - ENT, MRCS(UK)",
   "doctor_description": "Dr. Shravan is a ENT/Head and Neck Surgeon currently heading the integrated Head and Neck Services at Healthway Clinic. He graduated in Medicine from Bangalore Medical College with post graduation in ENT from the same institute.He underwent...",
   "doctor_mobile": "+91 81234567890"
+  }
+  "react_login":{
+   "username":"ganesh",
+   "password":"3dd1dd30fa7c337b0497784659349cbc"
+  }
 }
